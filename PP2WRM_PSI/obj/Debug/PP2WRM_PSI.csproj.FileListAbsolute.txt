@@ -1,0 +1,14 @@
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\bin\Debug\PP2WRM_PSI.exe.config
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\bin\Debug\PP2WRM_PSI.exe
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\bin\Debug\PP2WRM_PSI.pdb
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI.csprojAssemblyReference.cache
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\MainWindow.g.cs
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\App.g.cs
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI_MarkupCompile.cache
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI_MarkupCompile.lref
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\MainWindow.baml
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI.g.resources
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI.Properties.Resources.resources
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI.csproj.GenerateResource.cache
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI.exe
+C:\Users\gismo\Source\Repos\PP2WRM_PSI\PP2WRM_PSI\obj\Debug\PP2WRM_PSI.pdb

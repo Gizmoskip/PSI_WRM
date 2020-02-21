@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP2WRM_PSI", "PP2WRM_PSI\PP2WRM_PSI.csproj", "{FB13EC63-4340-4C23-B84C-99FE420A82F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB13EC63-4340-4C23-B84C-99FE420A82F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB13EC63-4340-4C23-B84C-99FE420A82F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB13EC63-4340-4C23-B84C-99FE420A82F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB13EC63-4340-4C23-B84C-99FE420A82F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFD0B54-88D1-4946-8254-31816DA6570F}
+	EndGlobalSection
+EndGlobal
